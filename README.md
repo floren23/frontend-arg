@@ -1,3 +1,3 @@
-# proyect-argProgram repositorio de (Back end/ Front end)
+# proyect-argProgram repositorio de Front end
 
 
